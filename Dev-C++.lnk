@@ -1,0 +1,10 @@
+/*
+ *simple package program example
+ *creating a packagenamed p1
+ *save this file as Protection.java
+*/
+
+package p1;
+
+class Protection{
+}
