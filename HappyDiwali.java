@@ -15,6 +15,6 @@ class HappyDiwali{
 			if(b==15)
 				break;
 		}
-		System.out.println("\n\t***HAPPY DIWALI DEAR RITU***");
+		System.out.println("\n\t***HAPPY DIWALI DEAR***");
 	}
 }
